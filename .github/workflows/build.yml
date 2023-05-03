@@ -28,4 +28,3 @@ jobs:
           publish_dir: ./src
           cname: audio-editor.ernesto.es
           enable_jekyll: false
-
